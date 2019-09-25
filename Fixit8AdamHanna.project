@@ -21,6 +21,22 @@
             "whileExtra", 
             "whileExtra.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "namesExtra", 
+            "namesExtra.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "product", 
+            "product.json"
+          ]
         }
       ], 
       "configxml": null, 
@@ -35,7 +51,7 @@
       "eslintRules": null, 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "Form1", 
+      "firstform": "whileExtra", 
       "fontFamily": "system", 
       "homescreenTitle": "", 
       "icon": "nsb/images/192.png", 
